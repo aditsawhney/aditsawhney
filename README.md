@@ -1,5 +1,5 @@
 <!-- Dynamic Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Adit%20Sawhney!&fontSize=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Adit%20Sawhney,%20enchanté!&fontSize=70&animation=fadeIn" width="100%" />
 
 ### 👨‍💻 About me
 I'm a B.Tech AI & ML student and Backend Engineer passionate about the intersection of advanced ML, Agentic AI, and robust system architecture.
